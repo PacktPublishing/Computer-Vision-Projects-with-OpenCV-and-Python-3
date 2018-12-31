@@ -50,10 +50,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Practical Computer Vision [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/practical-computer-vision?utm_source=github&utm_medium=repository&utm_campaign=9781788297684 ) [[Amazon]](https://www.amazon.com/dp/B079QXG3WR)
 
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
 ## Get to Know the Author
 **Matthew Rever**
 Matthew Rever is an image processing and computer vision engineer at a major national laboratory. He has years of experience in automating the analysis of complex scientific data, as well as in controlling sophisticated instruments. He has applied computer vision technology to save a great many hours of valuable human labor. He is also enthusiastic
