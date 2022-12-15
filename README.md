@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781789954555)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Computer Vision Projects with OpenCV and Python 3
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/computer-vision-projects-opencv-and-python-3?utm_source=github&utm_medium=repository&utm_campaign=9781789954555 "><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/4555%20(B13293).png" alt="Computer Vision Projects with OpenCV and Python 3" height="256px" align="right"></a>
